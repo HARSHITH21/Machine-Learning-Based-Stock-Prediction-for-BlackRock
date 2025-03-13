@@ -50,10 +50,6 @@ This repository contains:
 2. Open the Jupyter Notebook (`Corpfinance.ipynb`) to explore stock price prediction.
 3. Refer to the **report** and **presentation** for insights into BlackRock’s market position.
 
-## 📂 Resources
-🔗 **Report PDF**: [Download](link)  
-📊 **Presentation PPT**: [Download](link)  
-📝 **Python Code**: [View on Google Drive](https://drive.google.com/file/d/1bR9eUZ1riBoGVoBV77xV2QXr4x6oIlBO/view?usp=sharing)
 
 ---
 
